@@ -1,0 +1,2 @@
+Compile C++ code using:
+g++ -o <target_name> <sourcefile.cpp>

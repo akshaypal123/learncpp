@@ -1,0 +1,5 @@
+C++ is a compiled language and so to follow along you need to have a compiler installed on your machine.
+
+The most common for Windows compiler is mingw-w64. If you are on macOS or Linux you most likely already have a compiler installed
+
+To install a compiler on Windows follow this tutorial https://code.visualstudio.com/docs/cpp/config-mingw
